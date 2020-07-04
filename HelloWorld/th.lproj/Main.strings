@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Instant Developer"; ObjectID = "XDs-uP-iiE"; */
+"XDs-uP-iiE.text" = "Instant Developer";
+
+/* Class = "UILabel"; text = "Need help with coding problems? Register!"; ObjectID = "YWh-LS-pWJ"; */
+"YWh-LS-pWJ.text" = "Need help with coding problems? Register!";
+
+/* Class = "UIButton"; normalTitle = "Login with Facebook"; ObjectID = "ePf-9P-7Bi"; */
+"ePf-9P-7Bi.normalTitle" = "Login with Facebook";
+
+/* Class = "UILabel"; text = "Get help from experts in 15 minutes"; ObjectID = "rqw-bi-dZz"; */
+"rqw-bi-dZz.text" = "Get help from experts in 15 minutes";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "tOg-Nl-Raa"; */
+"tOg-Nl-Raa.normalTitle" = "Sign up";

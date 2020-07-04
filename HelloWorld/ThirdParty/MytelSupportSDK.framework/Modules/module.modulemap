@@ -1,0 +1,11 @@
+framework module MytelSupportSDK {
+  umbrella header "MytelSupportSDK.h"
+
+  export *
+  module * { export * }
+}
+
+module MytelSupportSDK.Swift {
+    header "MytelSupportSDK-Swift.h"
+    requires objc
+}

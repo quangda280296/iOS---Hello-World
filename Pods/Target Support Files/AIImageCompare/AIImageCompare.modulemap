@@ -1,0 +1,6 @@
+framework module AIImageCompare {
+  umbrella header "AIImageCompare-umbrella.h"
+
+  export *
+  module * { export * }
+}
